@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128979913307",
+    "project_id": "cafecito-df6cd",
+    "storage_bucket": "cafecito-df6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128979913307:android:b7f8ef98b61da6efff8d7e",
+        "android_client_info": {
+          "package_name": "com.cafecito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128979913307-cjge874okmh6brasoc57k6i25lsrjpvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gS79puii8D687L64CnbnWOmAtVmN7-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128979913307-cjge874okmh6brasoc57k6i25lsrjpvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
